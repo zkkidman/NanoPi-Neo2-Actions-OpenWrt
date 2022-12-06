@@ -16,5 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git NanoHatOLED https://github.com/vinewx/NanoHatOLED.git' >>feeds.conf.default
+echo 'src-git NanoHatOLED https://github.com/vinewx/NanoHatOLED.git^e3285a3b37c7c34048c0ea108fa4ec18b49c0bfd' >>feeds.conf.default
  
